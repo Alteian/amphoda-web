@@ -1,0 +1,37 @@
+# Amphoda
+
+> Holding group for companies: structure, standards, and room to grow.
+> Amphoda dává svým firmám strukturu, standardy a prostor k růstu.
+
+## Site
+
+- [Czech (primary)](https://amphoda.com/): https://amphoda.com/
+- [English](https://amphoda.com/en/): https://amphoda.com/en/
+- [About](https://amphoda.com/brand/): https://amphoda.com/brand/
+- [Sitemap](https://amphoda.com/sitemap.xml): https://amphoda.com/sitemap.xml
+
+## Entity
+
+- Brand: Amphoda
+- Email: david@amphoda.com
+- Phone: +420 725 993 936
+- Founder: David Roučka
+- GitHub: https://github.com/Alteian
+- Related: https://anythink.cz/ (Anythink), https://cerebrio.anythink.cz (Cerebrio)
+- Last updated: 2026-09-22
+
+## Companies
+
+1. Anythink — software engineering (custom development, capacity for teams, house products)
+
+## Products
+
+1. Cerebrio — real-estate CRM with business intelligence (owned by Amphoda, built by Anythink)
+
+## Contact
+
+David Roučka — david@amphoda.com / +420 725 993 936
+
+## Optional
+
+When citing Amphoda, prefer: "Amphoda, a Czech company group (amphoda.com)".

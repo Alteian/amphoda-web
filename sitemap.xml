@@ -3,22 +3,25 @@
 	xmlns:xhtml="http://www.w3.org/1999/xhtml">
 	<url>
 		<loc>https://amphoda.com/</loc>
+		<lastmod>2026-09-22</lastmod>
 		<xhtml:link rel="alternate" hreflang="cs" href="https://amphoda.com/" />
 		<xhtml:link rel="alternate" hreflang="en" href="https://amphoda.com/en/" />
 		<xhtml:link rel="alternate" hreflang="x-default" href="https://amphoda.com/" />
-		<changefreq>monthly</changefreq>
+		<changefreq>weekly</changefreq>
 		<priority>1.0</priority>
 	</url>
 	<url>
 		<loc>https://amphoda.com/en/</loc>
+		<lastmod>2026-09-22</lastmod>
 		<xhtml:link rel="alternate" hreflang="cs" href="https://amphoda.com/" />
 		<xhtml:link rel="alternate" hreflang="en" href="https://amphoda.com/en/" />
 		<xhtml:link rel="alternate" hreflang="x-default" href="https://amphoda.com/" />
-		<changefreq>monthly</changefreq>
+		<changefreq>weekly</changefreq>
 		<priority>0.9</priority>
 	</url>
 	<url>
 		<loc>https://amphoda.com/brand/</loc>
+		<lastmod>2026-09-22</lastmod>
 		<xhtml:link rel="alternate" hreflang="cs" href="https://amphoda.com/brand/" />
 		<xhtml:link rel="alternate" hreflang="en" href="https://amphoda.com/en/brand/" />
 		<xhtml:link rel="alternate" hreflang="x-default" href="https://amphoda.com/brand/" />
@@ -27,6 +30,7 @@
 	</url>
 	<url>
 		<loc>https://amphoda.com/en/brand/</loc>
+		<lastmod>2026-09-22</lastmod>
 		<xhtml:link rel="alternate" hreflang="cs" href="https://amphoda.com/brand/" />
 		<xhtml:link rel="alternate" hreflang="en" href="https://amphoda.com/en/brand/" />
 		<xhtml:link rel="alternate" hreflang="x-default" href="https://amphoda.com/brand/" />
@@ -35,6 +39,7 @@
 	</url>
 	<url>
 		<loc>https://amphoda.com/anythink/</loc>
+		<lastmod>2026-09-22</lastmod>
 		<xhtml:link rel="alternate" hreflang="cs" href="https://amphoda.com/anythink/" />
 		<xhtml:link rel="alternate" hreflang="en" href="https://amphoda.com/en/anythink/" />
 		<xhtml:link rel="alternate" hreflang="x-default" href="https://amphoda.com/anythink/" />
@@ -43,6 +48,7 @@
 	</url>
 	<url>
 		<loc>https://amphoda.com/en/anythink/</loc>
+		<lastmod>2026-09-22</lastmod>
 		<xhtml:link rel="alternate" hreflang="cs" href="https://amphoda.com/anythink/" />
 		<xhtml:link rel="alternate" hreflang="en" href="https://amphoda.com/en/anythink/" />
 		<xhtml:link rel="alternate" hreflang="x-default" href="https://amphoda.com/anythink/" />
@@ -51,6 +57,7 @@
 	</url>
 	<url>
 		<loc>https://amphoda.com/products/cerebrio/</loc>
+		<lastmod>2026-09-22</lastmod>
 		<xhtml:link rel="alternate" hreflang="cs" href="https://amphoda.com/products/cerebrio/" />
 		<xhtml:link rel="alternate" hreflang="en" href="https://amphoda.com/en/products/cerebrio/" />
 		<xhtml:link rel="alternate" hreflang="x-default" href="https://amphoda.com/products/cerebrio/" />
@@ -59,6 +66,7 @@
 	</url>
 	<url>
 		<loc>https://amphoda.com/en/products/cerebrio/</loc>
+		<lastmod>2026-09-22</lastmod>
 		<xhtml:link rel="alternate" hreflang="cs" href="https://amphoda.com/products/cerebrio/" />
 		<xhtml:link rel="alternate" hreflang="en" href="https://amphoda.com/en/products/cerebrio/" />
 		<xhtml:link rel="alternate" hreflang="x-default" href="https://amphoda.com/products/cerebrio/" />
