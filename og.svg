@@ -2,13 +2,17 @@
   <rect width="1200" height="630" fill="#050506"/>
   <defs>
     <pattern id="grid" width="64" height="64" patternUnits="userSpaceOnUse">
-      <path d="M64 0H0V64" fill="none" stroke="#D6DCE6" stroke-opacity="0.09" stroke-width="1"/>
+      <path d="M64 0H0V64" fill="none" stroke="#D6DCE6" stroke-opacity="0.08" stroke-width="1"/>
     </pattern>
   </defs>
   <rect width="1200" height="630" fill="url(#grid)"/>
-  <text x="88" y="310" fill="#F7F8FA" font-family="Syne, Liberation Sans, Arial, sans-serif" font-size="108" font-weight="700" letter-spacing="-4">Amphoda</text>
-  <rect x="88" y="330" width="64" height="3" fill="#66023C"/>
-  <text x="88" y="390" fill="#A8AEB8" font-family="Outfit, Liberation Sans, Arial, sans-serif" font-size="30">Poctivá práce. Nejvyšší kvalita. Firma s duší.</text>
-  <text x="88" y="434" fill="#6E747E" font-family="Outfit, Liberation Sans, Arial, sans-serif" font-size="26">Honest work. Highest quality. A company with a soul.</text>
-  <text x="88" y="580" fill="#6E747E" font-family="Outfit, Liberation Sans, Arial, sans-serif" font-size="22">amphoda.com</text>
+  <g transform="translate(88 168)" stroke="#66023C" stroke-width="3" fill="none" stroke-linejoin="miter">
+    <path d="M0 72V22L36 0L72 22V72"/>
+    <path d="M12 42H60" stroke-linecap="square"/>
+  </g>
+  <text x="188" y="268" fill="#F7F8FA" font-family="Syne, Liberation Sans, Arial, sans-serif" font-size="100" font-weight="700" letter-spacing="-4">Amphoda</text>
+  <rect x="188" y="286" width="56" height="3" fill="#66023C"/>
+  <text x="88" y="360" fill="#A8AEB8" font-family="Outfit, Liberation Sans, Arial, sans-serif" font-size="30">Poctivá práce. Nejvyšší kvalita. Firma s duší.</text>
+  <text x="88" y="404" fill="#6E747E" font-family="Outfit, Liberation Sans, Arial, sans-serif" font-size="26">Honest work. Highest quality. A company with a soul.</text>
+  <text x="88" y="580" fill="#6E747E" font-family="Outfit, Liberation Sans, Arial, sans-serif" font-size="20">amphoda.com</text>
 </svg>
